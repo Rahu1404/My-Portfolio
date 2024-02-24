@@ -196,8 +196,10 @@ section {
 
 .section__text__p3 {
   font-size: 1rem;
-  margin-bottom: 1.4rem;
+  margin-bottom: 1rem;
+  color: black;
 }
+
 
 .title {
   font-size: 3rem;
